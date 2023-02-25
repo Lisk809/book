@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/vitepress-theme-code-block/dist/index.mjs"],
+  "sourcesContent": ["import Demo from \"./components/demo.vue\";\nimport CodeDemo from \"./components/codeBlock.vue\";\nexport {\n  Demo,\n  CodeDemo\n};\n"],
+  "mappings": ";;;AAAA,OAAO,UAAU;AACjB,OAAO,cAAc;",
+  "names": []
+}
